@@ -45,3 +45,10 @@ npm test
 # Other
 
 Inspired by: https://medium.com/@dealancer/how-to-using-bitcoin-key-pairs-to-for-encrypted-messaging-a0a980e627b1
+
+
+##### Tip Jar
+
+BTC: `1LpVSRQTFt8vMYG9aLsuBt77YtAygbwjrD`
+
+BCH: `bitcoincash:qz887q4k6eer64wxzychjv80qzyxguufmuw59jfcj6`
