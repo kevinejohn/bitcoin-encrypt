@@ -1,5 +1,8 @@
 # Bitcoin Encrypt
 
+[![NPM Package](https://img.shields.io/npm/v/bitcoin-encrypt.svg?style=flat-square)](https://www.npmjs.org/package/bitcoin-encrypt)
+
+
 Using Bitcoin address key pairs for encrypted messaging
 
 # Install
