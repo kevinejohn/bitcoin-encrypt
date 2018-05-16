@@ -1,0 +1,40 @@
+{
+  "name": "bitcoin-encrypt",
+  "version": "1.0.0",
+  "description": "Using Bitcoin address key pairs for encrypted messaging",
+  "main": "index.js",
+  "homepage": "https://github.com/kevinejohn/bitcoin-encrypt/",
+  "scripts": {
+    "test": "tape ./tests/*.js",
+    "prettier": "prettier --write --single-quote --trailing-comma es5 *.js tests/*.js"
+  },
+  "keywords": [
+    "bitcoin",
+    "messaging",
+    "encrypt",
+    "encrypted",
+    "encryption",
+    "crypto",
+    "cryptography",
+    "bitcore",
+    "bcoin",
+    "address",
+    "decrypt",
+    "private",
+    "key",
+    "public",
+    "btc",
+    "bch",
+    "private-keys"
+  ],
+  "author": "Kevin Johnson (KevinEJohn)",
+  "license": "MIT",
+  "devDependencies": {
+    "bcoin": "^1.0.0-beta.15",
+    "prettier": "^1.12.1",
+    "tape": "^4.9.0"
+  },
+  "dependencies": {
+    "crypto-browserify": "3.12.0"
+  }
+}
