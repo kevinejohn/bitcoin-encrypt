@@ -1,6 +1,6 @@
 {
   "name": "bitcoin-encrypt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Using Bitcoin address key pairs for encrypted messaging",
   "main": "index.js",
   "homepage": "https://github.com/kevinejohn/bitcoin-encrypt/",
