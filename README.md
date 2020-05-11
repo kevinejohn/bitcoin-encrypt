@@ -2,13 +2,12 @@
 
 [![NPM Package](https://img.shields.io/npm/v/bitcoin-encrypt.svg?style=flat-square)](https://www.npmjs.org/package/bitcoin-encrypt)
 
-
 Using Bitcoin address key pairs for encrypted messaging
 
 # Install
 
 ```
-npm install bitcoin-encrypt --save
+npm install bitcoin-encrypt
 ```
 
 # Use
@@ -45,10 +44,3 @@ npm test
 # Other
 
 Inspired by: https://medium.com/@dealancer/how-to-using-bitcoin-key-pairs-to-for-encrypted-messaging-a0a980e627b1
-
-
-##### Tip Jar
-
-BTC: `1LpVSRQTFt8vMYG9aLsuBt77YtAygbwjrD`
-
-BCH: `bitcoincash:qz887q4k6eer64wxzychjv80qzyxguufmuw59jfcj6`

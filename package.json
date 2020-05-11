@@ -5,8 +5,7 @@
   "main": "index.js",
   "homepage": "https://github.com/kevinejohn/bitcoin-encrypt/",
   "scripts": {
-    "test": "tape ./tests/*.js",
-    "prettier": "prettier --write --single-quote --trailing-comma es5 *.js tests/*.js"
+    "test": "node ./tests/index.js"
   },
   "keywords": [
     "bitcoin",
@@ -29,12 +28,10 @@
   ],
   "author": "Kevin Johnson (KevinEJohn)",
   "license": "MIT",
-  "devDependencies": {
-    "bcoin": "^1.0.0-beta.15",
-    "prettier": "^1.12.1",
-    "tape": "^4.9.0"
-  },
   "dependencies": {
     "crypto-browserify": "3.12.0"
+  },
+  "devDependencies": {
+    "bsv": "^1.5.3"
   }
 }
